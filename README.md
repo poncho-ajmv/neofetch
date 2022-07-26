@@ -1,9 +1,12 @@
 # neofetch
 
-###English
+![Primera imagen](https://raw.githubusercontent.com/poncho-ajmv/neofetch/main/logo/Image1.png)
+
+### English
+
 To configure the file config.conf so that the terminal with neofetch looks good based in bash
 
-###Inicio 
+### Begin
 The file must be replaced /home/user/.config/neofetch/config.conf 
 by the file found in the repository.
 
@@ -25,10 +28,10 @@ To edit the values, you must go to the config.conf file to improve the terminal.
 
 
 
-###Español 
+### Españiol
 Para configurar el archivo config.conf para que se vea bien la terminal con neofetch basada en bash
 
-###Inicio 
+### Incio
 Se debe de sustituir el archivo /home/user/.config/neofetch/config.conf 
 por el archivo que se encuentra en el repositorio.
 
